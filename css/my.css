@@ -1,0 +1,27 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+h1 {
+    color: aqua;
+    text-align: center;
+}
+#dem{
+    color: aqua;
+   text-align: center;
+}
+#demo {
+    color: aqua;
+    text-align: right;
+    padding-right:150px;
+}
+img {
+    width: 400px;
+    height: 400px;
+    box-sizing: border-box;
+    border-radius: 60px;
+    padding: auto;
+    border-color: black;
+    background-color: black;
+}
